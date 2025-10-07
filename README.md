@@ -1,1 +1,2 @@
-# testrepo-courser
+# testrepo-courser 
+Add optional extended description testing
